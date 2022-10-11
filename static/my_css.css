@@ -1,0 +1,39 @@
+.nav_rad{
+    border-radius: 6px;
+}
+#bg{
+    background-size: 1800px 900px;
+}
+.txt_cen{
+    text-align: center;
+}
+
+.ml10{
+   margin-left: 10px;
+}
+
+.img{
+    height: 76vh;
+}
+.corusul{
+    width: 90% !important;
+}
+
+.brd{
+    border: 4mm ridge rgba(255, 255, 255, 0.6);
+    padding: 0 !important;
+}
+
+.wel_txt{
+    display: block ruby;
+    text-align: center;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.webs_color{
+    color: aquamarine;
+}
+
+.cont{
+    color: aliceblue;
+}

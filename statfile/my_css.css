@@ -1,0 +1,25 @@
+.nav_rad{
+    border-radius: 6px;
+}
+#bg{
+    background-size: 1800px 900px;
+}
+.txt_cen{
+    text-align: center;
+}
+
+.ml10{
+   margin-left: 10px;
+}
+
+.img{
+    height: 65vh;
+}
+.corusul{
+    width: 90% !important;
+}
+
+.brd{
+    border: 4mm ridge rgba(255, 255, 255, 0.6);
+    padding: 0 !important;
+}
